@@ -12,3 +12,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
     Use svn. Conflict resolution would be harder in svn. For collaboration in a small team maybe svn is enough.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+    Using a separate branch helps in collaborating better and also in resolving merge conflicts better. Using the master directly is perhaps less complicated but can cause errors.
